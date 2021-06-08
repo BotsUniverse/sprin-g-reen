@@ -3,4 +3,4 @@
 <p>
 This is the place where people can create what they don't find. You can join us to make something new.
 </p>
-<p>To join us, contact us at: <a href="https://telegram.me/Parvat_R"></a></p>
+<p>To join us, contact us at: <a href="https://telegram.me/Parvat_R">Telegram</a></p>
